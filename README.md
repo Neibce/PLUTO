@@ -4,7 +4,7 @@
 - [안드로이드 버전](https://github.com/Neibce/PLUTO-Android)
 
 
-## 스크린샷
+## 제작 결과
 ![image](https://github.com/user-attachments/assets/970259c5-493e-46a5-97c2-0631644f4f28)
 ![image](https://github.com/user-attachments/assets/2574261e-c8b5-4fd1-9a4f-cabc5a719d63)
 ![image](https://github.com/user-attachments/assets/2a11d1b2-cbcb-4260-ab5d-56da9eaebd9e)
