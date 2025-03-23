@@ -1,10 +1,16 @@
 # PLUTO(플루토)
 - 고등학교 동아리 팀코동(TeamCodingDongcheon 2018)의 비주얼 노벨 게임 제작 프로젝트
 - Ren'Py
+- [안드로이드 버전](https://github.com/Neibce/PLUTO-Android)
 
 
 ## 스크린샷
-![Screenshot_20250319_120205 Large](https://github.com/user-attachments/assets/3db58f71-d1a7-41f3-8f8e-e29e5ccda53e)
+![image](https://github.com/user-attachments/assets/970259c5-493e-46a5-97c2-0631644f4f28)
+![image](https://github.com/user-attachments/assets/2574261e-c8b5-4fd1-9a4f-cabc5a719d63)
+![image](https://github.com/user-attachments/assets/2a11d1b2-cbcb-4260-ab5d-56da9eaebd9e)
+![image](https://github.com/user-attachments/assets/f18247c9-7343-4a2c-a4b3-2b2e791313ec)
+
+
 
 ## 참여
 담당|이름
